@@ -2,135 +2,49 @@
 Mazij is a collaborative mashup application designed by a group of students from Heriot-Watt University as a part of their Software Engineering and Professional Development courses in Year 3 of their Computer Science degree.  
 The code is functioning but some files have not been cleaned (unnecessary code has been put as comments but not removed yet).
 
-Front-end - Shreya, Kulsoom, Varun, Taha, Azzaam    
+**For detailed information or clarifications, contact us at hwumazij@gmail.com!**
+
+## Work Distribution
+Front-end - Shreya (Me!), Kulsoom, Varun, Taha, Azzaam    
 Back-end - Bhavika, Omar, Alister    
  
 Backend-only Repository: https://github.com/bhavikakaliya/mazij-backend  
 
+## Screens
+
+### Sitemap
+![image](https://user-images.githubusercontent.com/71402153/176512028-3f3ddd8d-7818-46c4-8988-86dd5a08933c.png)
+
+![image](https://user-images.githubusercontent.com/71402153/176512377-967a6dac-b434-41cd-9eac-dbd2d1618191.png)
+![image](https://user-images.githubusercontent.com/71402153/176512470-d9b04a20-9ccb-46f9-a24b-4c7514fd5783.png)
+![image](https://user-images.githubusercontent.com/71402153/176512443-2b89e46c-eec1-458c-b6f4-c50afa82457a.png)
+![image](https://user-images.githubusercontent.com/71402153/176512423-9892aeec-28ef-489c-bb0f-8b42c53a9064.png)
+![image](https://user-images.githubusercontent.com/71402153/176512543-b94efb93-2e3f-4091-8872-99a0cc330ad8.png)
+![image](https://user-images.githubusercontent.com/71402153/176512659-73d52a00-e223-46db-951b-48b8d948df05.png)
+![image](https://user-images.githubusercontent.com/71402153/176512766-2bc4bce3-078a-4ffc-996b-086b3b090fe3.png)
+![image](https://user-images.githubusercontent.com/71402153/176512794-fb39fa27-a506-4d5e-893f-354de9127daa.png)
+![image](https://user-images.githubusercontent.com/71402153/176512612-1c08fa30-f2ed-4092-b610-78a463b0a5c6.png)
+![image](https://user-images.githubusercontent.com/71402153/176512693-b11d3035-72c3-460d-8f9b-3477678fd634.png)
+![image](https://user-images.githubusercontent.com/71402153/176512717-66d42606-822c-4087-abb8-781b75fd2b45.png)
+![image](https://user-images.githubusercontent.com/71402153/176512872-9727e37f-2455-44b5-be14-8d983eab3b20.png)
+![image](https://user-images.githubusercontent.com/71402153/176512887-ebd6edf7-7207-4efd-8ea0-3f22d4793175.png)
+![image](https://user-images.githubusercontent.com/71402153/176513089-f7266f1d-5887-4130-b44b-bb5b079f26f9.png)
+![image](https://user-images.githubusercontent.com/71402153/176513140-023cbe50-1038-4b91-bec9-3d16e4d37aa7.png)
+
 ## Simple Features  
-F-UR1 Registration Progress  
-F-UR 1.1 Register using email-done    
-The user must be able to sign up/create an account using an email 
-address and password. Accounts must be stored on the server until 
-they actively decide to delete their account.  
-
-F-UR 1.2  Register using Google or Facebook  
-In case the user prefers, they must be able to create an account by 
-logging into their Google account or Facebook account.  
-
-F-UR 1.3  Register for any of the several types of accounts- done   
-Users must be able to register for a type of accounts as per their needs, 
-the types being artist accounts, student accounts, content creator 
-accounts, and brand marketer accounts.  
-
-F-UR 1.4  Log in- done   
-Users who already have an account must be able to log in using the 
-username and password they registered.  
-
-F-UR 1.5  Log out- done   
-Users must be able to log out of their account on the application.  
-
-F-UR 1.6  Delete Account- done   
-Users must be able to delete their accounts from the application.  
-
-F-UR 1.7 Account Limit - done   
-Only one account must be made per email address and no usernames 
-should be repeated.  
- 
-F-UR 1.8  Retrieve forgotten password - done   
-Users must be able to reset their password if they have forgotten it.
-They can reset their password by creating a new password with their 
-email address.  
-
-F-UR 2 Profile information    
-
-F-UR 2.1 Add additional user information -done   
-The user must be allowed to enter additional information in their profile bio like links to
-their personal websites.    
-
-F-UR 2.2 View posts -1  -done   
-The user must be able to view their posts in their profile.    
-
-F-UR 2.3 Delete posts -done   
-The user must be able to delete any of their posts.   
-
-F-UR 2.4 Edit user information -done   
-The user must be able to edit their personal information and login details.  
-
-
-F-UR 3 Application Functionality Requirements   
-F-UR 3.1  Upload content - done   
-The app must allow users to upload content such as images.  
-
-F-UR 3.2 Create virtual collaborative environment - chat in works, whiteboard screen done  
-The system must allow users to collaborate with other users. The 
-virtual environment shall include a whiteboard and a chat function
-which the users can access to collaborate.  
-
-F-UR 3.3  Access home page - done   
-Users must be able to access their home page with posts of users 
-and libraries they follow.  
-
-F-UR 3.4 Access content libraries - done   
-Users must be able to access different content libraries categorized 
-by the account types of the users who have uploaded those posts.
-These libraries are thus curated by the users for the users.  
-
-F-UR 3.5 Interact with users - done  
-Users must be able to follow and search for other users. The system 
-should also allow tagging users in post captions. Furthermore, users 
-should be able to -block other users- to prevent any interaction with 
-them.  
-
-F-UR 3.6  Interact with content tags - done   
-Users must be able to follow libraries. The system should also allow 
-mentioning libraries in posts in the caption.   
-
-F-UR 3.7  Support for licenses - done   
-Appropriate licenses, particularly instances of Creative Commons, 
-must be supported and respected to ensure contributed content is 
-used as intended.   
-The platform must include features that enable key pieces of 
-information, like copyright details to be displayed for information.   
-
-F-UR 3.8 Editing posts before posting - shared content can be edited  
--System must allow users to edit & snip shared content. The app must
-have simple features for modifying shared content in libraries-, such 
-as image/audio filters or splicing tools.  
-
-F-UR 3.9  Interact with posts - done   
-Users must be able to like or upvote posts.  
-
-F-UR 3.10  Create mash ups of other posts - done   
-Users must be able to create mash ups of other users’ posts. A mash 
-up includes editing another user’s post by either making collages of 
-those or cropping it, adding text, stickers, or filters to it.  
-
-F-UR 3.11 Report content - done   
-Users must be able to report posts or accounts for having/posting 
-explicit or illegal content. Users must be able to flag a copyright 
-violation if content shared does not respect the copyright details of 
-the work.  
- 
-F-UR 3.12  Access pages for additional application information - done   
-Users must be able to access FAQ, privacy policy, and terms and 
-conditions pages to for additional help using the application.   
-
-F-UR 4 Administration requirements  
-F-UR 4.1 Login as administrators - done   
-The system must allow accounts with administration rights, called 
-platform managers to login.  
-
-F-UR 4.2  Use moderation tools - done   
-The system must allow “platform managers” to moderate content 
-that is uploaded to or generated using the platform. That is, 
-“platform managers” must be able to delete content, -block users 
-from accessing certain groups- and delete or block users from 
-accessing the application.  
-
-F-UR 4.3 View summary reports - done   
-The system must generate summary reports for “platform 
-managers” to view, concerning overall platform usage which could 
-include the number of posts uploaded, number of accounts created 
-or associated with the activity on the application like the number of 
-upvotes being put.  
+- Register with a valid email address. Options to select a Student, Artist, Marketer or Content Creator account. (One email, One account. Password is hashed and stored!)  
+- Login, Reset Password, Update Account Details or Delete Account.  
+- User can build their profile with a display picture and a bio (short description) and these can be edited later. Profile page has their posts and information of each of those with option to delete each.  
+- Posts can be given tags during upload, upvoted and reported.  
+- Other users can be followed/unfollowed or reported.  
+- Library has posts categorized by the type of the users who uploaded them.  
+- Posts of users and libraries followed appear in the Feed.  
+- Posts can be searched by tags and users can be searched by their username/first name/ last name.  
+- Mashups can be made from any photos or posts on the app already. A dedicated search has been provided to search for posts by their author or tags.  
+- Stickers, text or shapes (colour-adjustable) can be added to mashups. Undo/Redo options provided.  
+- Mashups can be saved to device, saved as a private draft to their profile to resume work later, or uploaded to their profile with the collaborators/authors mentioned.  
+- Users can create chat rooms to communicate and collaborate with each other during the Mashup, or delete them. Room admins can delete others members if needed. Chat rooms can be searched for using the dedicated search bar.  
+- Posts have all relevant information (author(s), tsgs etc) listed when clicked-on. Tags/Author(s) can be clicked on whwerever possible, to see other posts of the tag/ by that author.  
+- Admin Panel has been made for the moderators (us! @ Mazij). We can see stats for, search for and delete users/posts.  
+- FAQs, Terms and Conditions and Privacy Policy listed.  
+- Creative Commons license has been enabled to posts.  
