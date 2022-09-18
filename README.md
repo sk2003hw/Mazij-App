@@ -1,8 +1,8 @@
 # Mazij
 Mazij is a collaborative mashup application designed by a group of students from Heriot-Watt University as a part of their Software Engineering and Professional Development courses in Year 3 of their Computer Science degree.  
-The code is functioning but some files have not been cleaned (unnecessary code has been put as comments but not removed yet).
+The code is functioning but some files have not been cleaned (unnecessary code has been put as comments but has not been removed yet). The website has been deployed (with Firebase Hosting) as a part of the submission to the university but it has been disabled later as we would not be maintaining it.
 
-**For detailed information or clarifications, contact us at hwumazij@gmail.com!**
+**For detailed information or clarifications, contact us at hwumazij@gmail.com.**
 
 ## Work Distribution  
 Front-end - Shreya (Me!), Kulsoom, Varun, Taha, Azzaam    
