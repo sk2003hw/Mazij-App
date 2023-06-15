@@ -24,7 +24,7 @@ Backend-only Repository: https://github.com/bhavikakaliya/mazij-backend
 - Stickers, text or shapes (colour-adjustable) can be added to mashups. Undo/Redo options provided.  
 - Mashups can be saved to device, saved as a private draft to their profile to resume work later, or uploaded to their profile with the collaborators/authors mentioned.  
 - Users can create chat rooms to communicate and collaborate with each other during the Mashup, or delete them. Room admins can delete others members if needed. Chat rooms can be searched for using the dedicated search bar.  
-- Posts have all relevant information (author(s), tsgs etc) listed when clicked-on. Tags/Author(s) can be clicked on whwerever possible, to see other posts of the tag/ by that author.  
+- Posts have all relevant information (author(s), tags etc) listed when clicked-on. Tags/Author(s) can be clicked on whwerever possible, to see other posts of the tag/ by that author.  
 - Admin Panel has been made for the moderators (us! @ Mazij). We can see stats for, search for and delete users/posts.  
 - FAQs, Terms and Conditions and Privacy Policy listed.  
 - Creative Commons license has been enabled to posts.  
